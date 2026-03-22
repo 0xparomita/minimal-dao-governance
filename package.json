@@ -1,0 +1,10 @@
+{
+  "name": "minimal-dao-governance",
+  "version": "1.0.0",
+  "description": "ERC-20 Governance and Timelock System",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
